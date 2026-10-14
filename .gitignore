@@ -10,4 +10,4 @@ build/
 .env
 .DS_Store
 logs/*.log
-output/*.json
+output/
